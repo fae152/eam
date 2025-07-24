@@ -33,4 +33,7 @@ p {
 .banner {
     top: 0px;
     width: 100%;
+    color: gold;
+    heigth: 20px;
+    font-size: 11px;
     }
