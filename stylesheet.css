@@ -1,20 +1,26 @@
 body {
-  background-image: url();
-    font-align: center;
-    overflow: scroll;
+  background-image: url("");
+  font-align: center;
+  overflow: scroll;
+  margin: auto;
 }
 
 .border {
   width: 90%;
-    position: fixed;
+  position: fixed;
 }
 
 h1 {
   font-size: 24px;
+  font-weight: bold;
 }
 
 h2 {
   font-size: 18px;
+}
+
+h3 {
+  font-size: 15px;
 }
 
 p {
@@ -28,7 +34,7 @@ p {
     font-size: 8px;
     bottom: 1%;
     font-align: center;
-    }
+}
 
 .banner {
     top: 0px;
@@ -36,4 +42,8 @@ p {
     color: gold;
     heigth: 20px;
     font-size: 11px;
-    }
+}
+
+.logo {
+   width: 100%;
+}
