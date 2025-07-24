@@ -3,6 +3,7 @@ body {
   font-align: center;
   overflow: scroll;
   margin: auto;
+  padding: 10px;
 }
 
 .border {
