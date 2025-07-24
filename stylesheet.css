@@ -20,3 +20,9 @@ p {
 
 .info {
 }
+
+.copyright {
+    font-size: 8px;
+    bottom: 1%;
+    font-align: center;
+    }
