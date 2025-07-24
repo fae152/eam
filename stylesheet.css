@@ -1,11 +1,8 @@
-* {
-  margin: auto;
-}
-
 body {
 background-image: url("");
 overflow: scroll;
-    padding: 10px;
+   padding: 10px;
+   margin: auto;
 }
 
 .border {
