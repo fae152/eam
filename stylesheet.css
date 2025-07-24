@@ -1,49 +1,51 @@
 body {
-  background-image: url("");
-  font-align: center;
-  overflow: scroll;
-  margin: auto;
-  padding: 10px;
+background-image: url("");
+overflow: scroll;
+margin: auto;
+padding: 10px;
 }
 
 .border {
-  width: 90%;
-  position: fixed;
+width: 90%;
+position: fixed;
 }
 
 h1 {
- /* font-size: 28px;*/
-  font-size: x-large;
-  font-weight: bold;
+/* font-size: 28px;*/
+font-size: x-large;
+font-weight: bold;
 }
 
 h2 {
 /*  font-size: 20px;*/
-  font-size: larger;
+font-size: larger;
 }
 
 h3 {
-  /*font-size: 18px;*/
-  font-size: large;
+/*font-size: 18px;*/
+font-size: large;
 }
 
 .info {
 }
 
 .copyright {
-    font-size: 8px;
-    bottom: 1%;
-    font-align: center;
+  font-size: 8px;
+  bottom: 1%;
+  font-align: center;
+  align-self: center;
+  position: fixed;
 }
 
 .banner {
-    top: 0px;
-    width: 100%;
-    color: gold;
-    heigth: 20px;
-    font-size: 11px;
+top: 0px;
+width: 100%;
+background-color: gold;
+color: white;
+heigth: 20px;
+font-size: 11px;
 }
 
 .logo {
-   width: 100%;
+width: 100%;
 }
