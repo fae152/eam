@@ -12,20 +12,16 @@ body {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h3 {
-  font-size: 15px;
-}
-
-p {
-  font-size: 11px;
+  font-size: 18px;
 }
 
 .info {
