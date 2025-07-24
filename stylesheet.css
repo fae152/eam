@@ -30,13 +30,14 @@ font-size: large;
 }
 
 .copyright {
-  font-size: 8px;
-  bottom: 1%;
-  font-align: center;
-  justify-content: center;
-  position: fixed;
+   font-size: 8px;
+   bottom: 1%;
+   font-align: center;
+   justify-content: center;
+   position: fixed;
    background-color: brown;
    margin: auto;
+   width: 90%;
 }
 
 .banner {
