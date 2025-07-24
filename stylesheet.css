@@ -1,11 +1,11 @@
 * {
   margin: auto;
-  padding: 10px;
 }
 
 body {
 background-image: url("");
 overflow: scroll;
+    padding: 10px;
 }
 
 .border {
@@ -47,6 +47,7 @@ background-color: gold;
 color: white;
 heigth: 20px;
 font-size: 11px;
+    padding: 10px;
 }
 
 .logo {
