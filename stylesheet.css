@@ -42,6 +42,18 @@ a {
     padding: 10px;
 }
 
+.infoHolder:before {
+   content: "";
+   position: absolute;
+   margin: -20px;
+   width: 40px;
+   height: 40px;
+   transform: rotate(45deg);
+   background-color: black;
+   border-radius: 100%;
+   overflow: hidden;
+}
+
 .copyright {
    font-size: small;
    bottom: 15px;
