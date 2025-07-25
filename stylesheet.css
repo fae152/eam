@@ -60,10 +60,10 @@ a {
 .logo {
    z-index:-1;
    position: fixed;
+   opacity: 75%;
 }
 
 .border {
    position: fixed;
    rotate: 90deg;
-   opacity: 75%;
 }
