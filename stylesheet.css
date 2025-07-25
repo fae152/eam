@@ -63,6 +63,6 @@ a {
 }
 
 .border {
-   postition: fixed;
+   position: fixed;
    rotate: 90deg;
 }
