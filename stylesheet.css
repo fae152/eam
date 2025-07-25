@@ -6,6 +6,11 @@ body {
    position: top;
 }
 
+title {
+   text-align: center;
+   font-size: xx-large;
+}
+
 h1 {
 /* font-size: 28px;*/
 font-size: x-large;
