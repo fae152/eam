@@ -38,7 +38,7 @@ a {
    margin-top: 100px;*/
    border-color: #D3A753;
     border-width: 10px;
-    border: solid;
+    border-style: double;
     padding: 10px;
 }
 
@@ -46,7 +46,6 @@ a {
    font-size: small;
    bottom: 15px;
    justify-content: center;
-   position: fixed;
    margin: auto;
    width: 100%;
    text-align: center;
