@@ -33,15 +33,19 @@ a {
 .infoHolder {
    margin: auto;
    width: 65%;
-   max-height: 1000px;
+  /*max-height: 1000px;
    min-height: min-content;
    overflow: auto;
-   margin-top: 100px;
+   margin-top: 100px;*/
+   border-color: #D3A753;
+    border-width: 10px;
+    border: solid;
+    padding: 10px;
 }
 
 .copyright {
    font-size: small;
-   bottom: 0px;
+   bottom: 15px;
    justify-content: center;
    position: fixed;
    margin: auto;
@@ -65,8 +69,8 @@ a {
    z-index:-1;
    position: fixed;
    opacity: 50%;
-   width: 50%;
-   left: 25%;
+   /*width: 50%;
+   left: 25%;*/
 }
 
 .border {
