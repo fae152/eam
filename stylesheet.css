@@ -63,6 +63,6 @@ a {
 }
 
 .border {
-   background-image: url("images/border.svg");
+   postition: fixed;
    rotate: 90deg;
 }
