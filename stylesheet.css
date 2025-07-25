@@ -65,6 +65,7 @@ a {
    z-index:-1;
    position: fixed;
    opacity: 50%;
+   width: 50%;
 }
 
 .border {
