@@ -58,8 +58,8 @@ a {
 }
 
 .logo {
-   display: flex;
-   margin: auto;
+   z-index:-1;
+   position: fixed;
 }
 
 .border {
