@@ -60,7 +60,7 @@ a {
 .logo {
    z-index:-1;
    position: fixed;
-   opacity: 75%;
+   opacity: 50%;
 }
 
 .border {
