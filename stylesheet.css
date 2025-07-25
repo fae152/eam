@@ -65,4 +65,5 @@ a {
 .border {
    position: fixed;
    rotate: 90deg;
+   opacity: 75%;
 }
